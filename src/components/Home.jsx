@@ -12,6 +12,7 @@ function Home() {
         leftBtnTxt="Custom Order"
         rightBtnTxt="Existing Inventory"
       />
+
       <Section
         title="Model Y"
         description="Order Online for Touchless Delivery"
@@ -19,6 +20,7 @@ function Home() {
         leftBtnTxt="Custom Order"
         rightBtnTxt="Existing Inventory"
       />
+
       <Section
         title="Model X"
         description="Order Online for Touchless Delivery"
